@@ -1,0 +1,12 @@
+[submodule "psi_p1"]
+	path = psi_p1
+	url = https://www.github.com/lromeraj/psi_p1
+[submodule "psi_p2"]
+	path = psi_p2
+	url = https://www.github.com/lromeraj/psi_p2
+[submodule "psi_p3"]
+	path = psi_p3
+	url = https://www.github.com/alvarorp00/psi_p3
+[submodule "psi_p4"]
+	path = psi_p4
+	url = https://www.github.com/alvarorp00/psi_p4
